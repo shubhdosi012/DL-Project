@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-unakoti" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#24140e"/>
+        <stop offset="55%" stop-color="#874628"/>
+        <stop offset="100%" stop-color="#e0a775"/>
+      </linearGradient>
+      <radialGradient id="sun-unakoti" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#ffd7a8" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#e0a775" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-unakoti)"/>
+    <circle cx="130" cy="52" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="170" cy="122" r="2" fill="#ffd7a8" opacity="0.5"/><circle cx="210" cy="37" r="1" fill="#ffd7a8" opacity="0.6499999999999999"/><circle cx="250" cy="107" r="2" fill="#ffd7a8" opacity="0.7999999999999999"/><circle cx="290" cy="22" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="330" cy="92" r="2" fill="#ffd7a8" opacity="0.5"/><circle cx="370" cy="162" r="1" fill="#ffd7a8" opacity="0.6499999999999999"/><circle cx="410" cy="77" r="2" fill="#ffd7a8" opacity="0.7999999999999999"/><circle cx="450" cy="147" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="490" cy="62" r="2" fill="#ffd7a8" opacity="0.5"/><circle cx="530" cy="132" r="1" fill="#ffd7a8" opacity="0.6499999999999999"/><circle cx="570" cy="47" r="2" fill="#ffd7a8" opacity="0.7999999999999999"/><circle cx="610" cy="117" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="650" cy="32" r="2" fill="#ffd7a8" opacity="0.5"/><circle cx="690" cy="102" r="1" fill="#ffd7a8" opacity="0.6499999999999999"/><circle cx="730" cy="17" r="2" fill="#ffd7a8" opacity="0.7999999999999999"/><circle cx="770" cy="87" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="30" cy="157" r="2" fill="#ffd7a8" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#ffd7a8">
+      <ellipse cx="160" cy="95" rx="85" ry="16"/>
+      <ellipse cx="540" cy="128" rx="105" ry="18"/>
+      <ellipse cx="340" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="180" cy="112" r="78.19999999999999" fill="url(#sun-unakoti)"/>
+    <circle cx="180" cy="112" r="34" fill="#ffd7a8" opacity="0.94"/>
+    <path d="M475 104 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M612 145 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M149 94 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M286 135 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M423 84 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 160 L150 120 L340 165 L520 115 L710 155 L800 130 L800 450 L0 450 Z" fill="#24140e" opacity="0.92"/>
+        <path d="M240 450 L240 275 Q400 175 560 275 L560 450 Z" fill="#874628" opacity="0.55"/>
+        <path d="M295 450 L295 305 Q400 235 505 305 L505 450 Z" fill="#ffd7a8" opacity="0.35"/>
+        <rect x="0" y="370" width="800" height="80" fill="#24140e" opacity="0.95"/>
+  </svg>

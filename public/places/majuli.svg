@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-majuli" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#062c42"/>
+        <stop offset="55%" stop-color="#0284c7"/>
+        <stop offset="100%" stop-color="#5be3d4"/>
+      </linearGradient>
+      <radialGradient id="sun-majuli" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff4cc" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#5be3d4" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-majuli)"/>
+    <circle cx="403" cy="112" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="14" cy="70" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="405" cy="28" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="16" cy="141" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="407" cy="99" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="18" cy="57" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="409" cy="15" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="20" cy="128" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="411" cy="86" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="22" cy="44" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="413" cy="157" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="24" cy="115" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="415" cy="73" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="26" cy="31" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="417" cy="144" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="28" cy="102" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="419" cy="60" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="30" cy="18" r="2" fill="#fff4cc" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#fff4cc">
+      <ellipse cx="211" cy="95" rx="85" ry="16"/>
+      <ellipse cx="631" cy="128" rx="105" ry="18"/>
+      <ellipse cx="391" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="231" cy="138" r="85.1" fill="url(#sun-majuli)"/>
+    <circle cx="231" cy="138" r="37" fill="#fff4cc" opacity="0.94"/>
+    <path d="M526 99 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M663 140 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M200 89 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M337 130 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M474 79 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 245 L170 215 L330 240 L520 210 L690 238 L800 220 L800 285 L0 285 Z" fill="#0284c7" opacity="0.45"/>
+        <path d="M0 278 Q220 262 440 278 T800 272 L800 450 L0 450 Z" fill="#0284c7" opacity="0.9"/>
+        <path d="M0 326 Q260 308 530 335 T800 322 L800 450 L0 450 Z" fill="#fff4cc" opacity="0.78"/>
+        <path d="M90 400 Q125 275 158 190" stroke="#062c42" stroke-width="11" fill="none" stroke-linecap="round"/>
+        <path d="M158 190 Q108 175 80 205 M158 190 Q145 140 182 152 M158 190 Q200 162 222 195 M158 190 Q174 218 202 235" stroke="#062c42" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+        <path d="M685 410 Q665 305 645 230" stroke="#062c42" stroke-width="9" fill="none" stroke-linecap="round"/>
+        <path d="M645 230 Q600 215 585 240 M645 230 Q640 185 670 198 M645 230 Q685 208 705 232" stroke="#062c42" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+        <path d="M415 304 Q455 314 495 304 L484 314 L426 314 Z" fill="#062c42" opacity="0.9"/>
+        <polygon points="455,304 455,268 480,292" fill="#fff4cc" opacity="0.95"/>
+        <ellipse cx="231" cy="306" rx="95" ry="10" fill="#fff4cc" opacity="0.35"/>
+  </svg>

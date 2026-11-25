@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-hyderabad" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#1f1936"/>
+        <stop offset="55%" stop-color="#be4d40"/>
+        <stop offset="100%" stop-color="#fda4af"/>
+      </linearGradient>
+      <radialGradient id="sun-hyderabad" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff1e6" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#fda4af" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-hyderabad)"/>
+    <circle cx="613" cy="162" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="294" cy="130" r="2" fill="#fff1e6" opacity="0.5"/><circle cx="755" cy="98" r="1" fill="#fff1e6" opacity="0.6499999999999999"/><circle cx="436" cy="66" r="2" fill="#fff1e6" opacity="0.7999999999999999"/><circle cx="117" cy="34" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="578" cy="157" r="2" fill="#fff1e6" opacity="0.5"/><circle cx="259" cy="125" r="1" fill="#fff1e6" opacity="0.6499999999999999"/><circle cx="720" cy="93" r="2" fill="#fff1e6" opacity="0.7999999999999999"/><circle cx="401" cy="61" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="82" cy="29" r="2" fill="#fff1e6" opacity="0.5"/><circle cx="543" cy="152" r="1" fill="#fff1e6" opacity="0.6499999999999999"/><circle cx="224" cy="120" r="2" fill="#fff1e6" opacity="0.7999999999999999"/><circle cx="685" cy="88" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="366" cy="56" r="2" fill="#fff1e6" opacity="0.5"/><circle cx="47" cy="24" r="1" fill="#fff1e6" opacity="0.6499999999999999"/><circle cx="508" cy="147" r="2" fill="#fff1e6" opacity="0.7999999999999999"/><circle cx="189" cy="115" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="650" cy="83" r="2" fill="#fff1e6" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#fff1e6">
+      <ellipse cx="261" cy="95" rx="85" ry="16"/>
+      <ellipse cx="601" cy="128" rx="105" ry="18"/>
+      <ellipse cx="321" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="281" cy="108" r="89.69999999999999" fill="url(#sun-hyderabad)"/>
+    <circle cx="281" cy="108" r="39" fill="#fff1e6" opacity="0.94"/>
+    <path d="M96 77 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M233 118 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M370 159 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M507 108 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M644 149 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 290 L85 290 L85 245 L145 245 L145 280 L215 280 L215 225 L265 225 L265 295 L535 295 L535 235 L605 235 L605 270 L685 270 L685 245 L750 245 L750 290 L800 290 L800 450 L0 450 Z" fill="#1f1936" opacity="0.85"/>
+        <rect x="325" y="195" width="150" height="150" rx="6" fill="#1f1936" opacity="0.96"/>
+        <path d="M362 345 L362 252 Q400 212 438 252 L438 345 Z" fill="#fff1e6" opacity="0.72"/>
+        <rect x="345" y="182" width="110" height="16" rx="4" fill="#fb923c" opacity="0.85"/>
+        <rect x="0" y="345" width="800" height="105" fill="#1f1936"/>
+  </svg>

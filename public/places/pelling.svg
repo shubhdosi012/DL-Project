@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-pelling" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#11213d"/>
+        <stop offset="55%" stop-color="#2f5d96"/>
+        <stop offset="100%" stop-color="#9cc9f5"/>
+      </linearGradient>
+      <radialGradient id="sun-pelling" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff3d6" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#9cc9f5" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-pelling)"/>
+    <circle cx="652" cy="77" r="1" fill="#fff3d6" opacity="0.35"/><circle cx="86" cy="59" r="2" fill="#fff3d6" opacity="0.5"/><circle cx="300" cy="41" r="1" fill="#fff3d6" opacity="0.6499999999999999"/><circle cx="514" cy="23" r="2" fill="#fff3d6" opacity="0.7999999999999999"/><circle cx="728" cy="160" r="1" fill="#fff3d6" opacity="0.35"/><circle cx="162" cy="142" r="2" fill="#fff3d6" opacity="0.5"/><circle cx="376" cy="124" r="1" fill="#fff3d6" opacity="0.6499999999999999"/><circle cx="590" cy="106" r="2" fill="#fff3d6" opacity="0.7999999999999999"/><circle cx="24" cy="88" r="1" fill="#fff3d6" opacity="0.35"/><circle cx="238" cy="70" r="2" fill="#fff3d6" opacity="0.5"/><circle cx="452" cy="52" r="1" fill="#fff3d6" opacity="0.6499999999999999"/><circle cx="666" cy="34" r="2" fill="#fff3d6" opacity="0.7999999999999999"/><circle cx="100" cy="16" r="1" fill="#fff3d6" opacity="0.35"/><circle cx="314" cy="153" r="2" fill="#fff3d6" opacity="0.5"/><circle cx="528" cy="135" r="1" fill="#fff3d6" opacity="0.6499999999999999"/><circle cx="742" cy="117" r="2" fill="#fff3d6" opacity="0.7999999999999999"/><circle cx="176" cy="99" r="1" fill="#fff3d6" opacity="0.35"/><circle cx="390" cy="81" r="2" fill="#fff3d6" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#fff3d6">
+      <ellipse cx="174" cy="95" rx="85" ry="16"/>
+      <ellipse cx="614" cy="128" rx="105" ry="18"/>
+      <ellipse cx="394" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="354" cy="121" r="78.19999999999999" fill="url(#sun-pelling)"/>
+    <circle cx="354" cy="121" r="34" fill="#fff3d6" opacity="0.94"/>
+    <path d="M409 130 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#11213d" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M546 79 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#11213d" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M683 120 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#11213d" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M220 69 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#11213d" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M357 110 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#11213d" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <polygon points="0,330 130,155 255,280 390,118 530,270 675,142 800,295 800,450 0,450" fill="#2f5d96" opacity="0.82"/>
+        <polygon points="130,155 162,200 135,195 106,205" fill="#fff3d6" opacity="0.92"/>
+        <polygon points="390,118 432,175 394,168 358,180" fill="#fff3d6" opacity="0.95"/>
+        <polygon points="675,142 712,195 678,188 644,200" fill="#fff3d6" opacity="0.92"/>
+        <path d="M0 322 Q240 278 480 322 T800 308 L800 450 L0 450 Z" fill="#11213d" opacity="0.94"/>
+        <rect x="330" y="252" width="140" height="68" rx="4" fill="#fff3d6" opacity="0.95"/><rect x="355" y="228" width="90" height="26" fill="#2f5d96"/><polygon points="348,228 400,204 452,228" fill="#f59e0b"/><path d="M140 250 Q235 280 330 252" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="6 5" fill="none"/>
+  </svg>

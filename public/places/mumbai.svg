@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-mumbai" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#1f1936"/>
+        <stop offset="55%" stop-color="#be4d40"/>
+        <stop offset="100%" stop-color="#fda4af"/>
+      </linearGradient>
+      <radialGradient id="sun-mumbai" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff1e6" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#fda4af" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-mumbai)"/>
+    <circle cx="592" cy="52" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="526" cy="29" r="2" fill="#fff1e6" opacity="0.5"/><circle cx="460" cy="161" r="1" fill="#fff1e6" opacity="0.6499999999999999"/><circle cx="394" cy="138" r="2" fill="#fff1e6" opacity="0.7999999999999999"/><circle cx="328" cy="115" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="262" cy="92" r="2" fill="#fff1e6" opacity="0.5"/><circle cx="196" cy="69" r="1" fill="#fff1e6" opacity="0.6499999999999999"/><circle cx="130" cy="46" r="2" fill="#fff1e6" opacity="0.7999999999999999"/><circle cx="64" cy="23" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="778" cy="155" r="2" fill="#fff1e6" opacity="0.5"/><circle cx="712" cy="132" r="1" fill="#fff1e6" opacity="0.6499999999999999"/><circle cx="646" cy="109" r="2" fill="#fff1e6" opacity="0.7999999999999999"/><circle cx="580" cy="86" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="514" cy="63" r="2" fill="#fff1e6" opacity="0.5"/><circle cx="448" cy="40" r="1" fill="#fff1e6" opacity="0.6499999999999999"/><circle cx="382" cy="17" r="2" fill="#fff1e6" opacity="0.7999999999999999"/><circle cx="316" cy="149" r="1" fill="#fff1e6" opacity="0.35"/><circle cx="250" cy="126" r="2" fill="#fff1e6" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#fff1e6">
+      <ellipse cx="234" cy="95" rx="85" ry="16"/>
+      <ellipse cx="604" cy="128" rx="105" ry="18"/>
+      <ellipse cx="374" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="574" cy="111" r="87.39999999999999" fill="url(#sun-mumbai)"/>
+    <circle cx="574" cy="111" r="38" fill="#fff1e6" opacity="0.94"/>
+    <path d="M389 90 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M526 131 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M663 80 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M200 121 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M337 70 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#1f1936" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 290 L85 290 L85 245 L145 245 L145 280 L215 280 L215 225 L265 225 L265 295 L535 295 L535 235 L605 235 L605 270 L685 270 L685 245 L750 245 L750 290 L800 290 L800 450 L0 450 Z" fill="#1f1936" opacity="0.85"/>
+        <rect x="325" y="195" width="150" height="150" rx="6" fill="#1f1936" opacity="0.96"/>
+        <path d="M362 345 L362 252 Q400 212 438 252 L438 345 Z" fill="#fff1e6" opacity="0.72"/>
+        <rect x="345" y="182" width="110" height="16" rx="4" fill="#fb923c" opacity="0.85"/>
+        <rect x="0" y="345" width="800" height="105" fill="#1f1936"/>
+  </svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-humayun-tomb" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#382a47"/>
+        <stop offset="55%" stop-color="#d88b7e"/>
+        <stop offset="100%" stop-color="#f6c1a6"/>
+      </linearGradient>
+      <radialGradient id="sun-humayun-tomb" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff4ee" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#f6c1a6" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-humayun-tomb)"/>
+    <circle cx="577" cy="82" r="1" fill="#fff4ee" opacity="0.35"/><circle cx="506" cy="34" r="2" fill="#fff4ee" opacity="0.5"/><circle cx="435" cy="141" r="1" fill="#fff4ee" opacity="0.6499999999999999"/><circle cx="364" cy="93" r="2" fill="#fff4ee" opacity="0.7999999999999999"/><circle cx="293" cy="45" r="1" fill="#fff4ee" opacity="0.35"/><circle cx="222" cy="152" r="2" fill="#fff4ee" opacity="0.5"/><circle cx="151" cy="104" r="1" fill="#fff4ee" opacity="0.6499999999999999"/><circle cx="80" cy="56" r="2" fill="#fff4ee" opacity="0.7999999999999999"/><circle cx="789" cy="163" r="1" fill="#fff4ee" opacity="0.35"/><circle cx="718" cy="115" r="2" fill="#fff4ee" opacity="0.5"/><circle cx="647" cy="67" r="1" fill="#fff4ee" opacity="0.6499999999999999"/><circle cx="576" cy="19" r="2" fill="#fff4ee" opacity="0.7999999999999999"/><circle cx="505" cy="126" r="1" fill="#fff4ee" opacity="0.35"/><circle cx="434" cy="78" r="2" fill="#fff4ee" opacity="0.5"/><circle cx="363" cy="30" r="1" fill="#fff4ee" opacity="0.6499999999999999"/><circle cx="292" cy="137" r="2" fill="#fff4ee" opacity="0.7999999999999999"/><circle cx="221" cy="89" r="1" fill="#fff4ee" opacity="0.35"/><circle cx="150" cy="41" r="2" fill="#fff4ee" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#fff4ee">
+      <ellipse cx="269" cy="95" rx="85" ry="16"/>
+      <ellipse cx="569" cy="128" rx="105" ry="18"/>
+      <ellipse cx="409" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="609" cy="141" r="98.89999999999999" fill="url(#sun-humayun-tomb)"/>
+    <circle cx="609" cy="141" r="43" fill="#fff4ee" opacity="0.94"/>
+    <path d="M544 73 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#382a47" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M681 114 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#382a47" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M218 155 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#382a47" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M355 104 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#382a47" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M492 145 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#382a47" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 265 Q210 215 420 260 T800 240 L800 450 L0 450 Z" fill="#d88b7e" opacity="0.75"/>
+        <rect x="245" y="242" width="310" height="108" rx="8" fill="#382a47" opacity="0.92"/>
+        <polygon points="340,242 400,145 460,242" fill="#382a47" opacity="0.96"/>
+        <path d="M396 145 L404 145 L400 122 Z" fill="#fbbf24"/>
+        <path d="M285 242 C285 202, 335 202, 335 242 Z" fill="#fff4ee" opacity="0.78"/>
+        <path d="M465 242 C465 202, 515 202, 515 242 Z" fill="#fff4ee" opacity="0.78"/>
+        <rect x="0" y="340" width="800" height="110" fill="#382a47" opacity="0.97"/>
+  </svg>

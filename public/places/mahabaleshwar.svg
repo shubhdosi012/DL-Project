@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-mahabaleshwar" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#0d2038"/>
+        <stop offset="55%" stop-color="#336699"/>
+        <stop offset="100%" stop-color="#a8d5f7"/>
+      </linearGradient>
+      <radialGradient id="sun-mahabaleshwar" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#f0f8ff" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#a8d5f7" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-mahabaleshwar)"/>
+    <circle cx="379" cy="107" r="1" fill="#f0f8ff" opacity="0.35"/><circle cx="762" cy="126" r="2" fill="#f0f8ff" opacity="0.5"/><circle cx="365" cy="145" r="1" fill="#f0f8ff" opacity="0.6499999999999999"/><circle cx="748" cy="164" r="2" fill="#f0f8ff" opacity="0.7999999999999999"/><circle cx="351" cy="28" r="1" fill="#f0f8ff" opacity="0.35"/><circle cx="734" cy="47" r="2" fill="#f0f8ff" opacity="0.5"/><circle cx="337" cy="66" r="1" fill="#f0f8ff" opacity="0.6499999999999999"/><circle cx="720" cy="85" r="2" fill="#f0f8ff" opacity="0.7999999999999999"/><circle cx="323" cy="104" r="1" fill="#f0f8ff" opacity="0.35"/><circle cx="706" cy="123" r="2" fill="#f0f8ff" opacity="0.5"/><circle cx="309" cy="142" r="1" fill="#f0f8ff" opacity="0.6499999999999999"/><circle cx="692" cy="161" r="2" fill="#f0f8ff" opacity="0.7999999999999999"/><circle cx="295" cy="25" r="1" fill="#f0f8ff" opacity="0.35"/><circle cx="678" cy="44" r="2" fill="#f0f8ff" opacity="0.5"/><circle cx="281" cy="63" r="1" fill="#f0f8ff" opacity="0.6499999999999999"/><circle cx="664" cy="82" r="2" fill="#f0f8ff" opacity="0.7999999999999999"/><circle cx="267" cy="101" r="1" fill="#f0f8ff" opacity="0.35"/><circle cx="650" cy="120" r="2" fill="#f0f8ff" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#f0f8ff">
+      <ellipse cx="283" cy="95" rx="85" ry="16"/>
+      <ellipse cx="523" cy="128" rx="105" ry="18"/>
+      <ellipse cx="423" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="623" cy="95" r="89.69999999999999" fill="url(#sun-mahabaleshwar)"/>
+    <circle cx="623" cy="95" r="39" fill="#f0f8ff" opacity="0.94"/>
+    <path d="M318 123 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d2038" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M455 72 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d2038" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M592 113 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d2038" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M129 154 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d2038" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M266 103 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d2038" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <polygon points="0,330 130,155 255,280 390,118 530,270 675,142 800,295 800,450 0,450" fill="#336699" opacity="0.82"/>
+        <polygon points="130,155 162,200 135,195 106,205" fill="#f0f8ff" opacity="0.92"/>
+        <polygon points="390,118 432,175 394,168 358,180" fill="#f0f8ff" opacity="0.95"/>
+        <polygon points="675,142 712,195 678,188 644,200" fill="#f0f8ff" opacity="0.92"/>
+        <path d="M0 322 Q240 278 480 322 T800 308 L800 450 L0 450 Z" fill="#0d2038" opacity="0.94"/>
+        
+  </svg>

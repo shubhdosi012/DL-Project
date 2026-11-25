@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-rann-of-kutch" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#232046"/>
+        <stop offset="55%" stop-color="#c86d58"/>
+        <stop offset="100%" stop-color="#ffd3a8"/>
+      </linearGradient>
+      <radialGradient id="sun-rann-of-kutch" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#f7f8ff" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#ffd3a8" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-rann-of-kutch)"/>
+    <circle cx="382" cy="47" r="1" fill="#f7f8ff" opacity="0.35"/><circle cx="246" cy="54" r="2" fill="#f7f8ff" opacity="0.5"/><circle cx="110" cy="61" r="1" fill="#f7f8ff" opacity="0.6499999999999999"/><circle cx="754" cy="68" r="2" fill="#f7f8ff" opacity="0.7999999999999999"/><circle cx="618" cy="75" r="1" fill="#f7f8ff" opacity="0.35"/><circle cx="482" cy="82" r="2" fill="#f7f8ff" opacity="0.5"/><circle cx="346" cy="89" r="1" fill="#f7f8ff" opacity="0.6499999999999999"/><circle cx="210" cy="96" r="2" fill="#f7f8ff" opacity="0.7999999999999999"/><circle cx="74" cy="103" r="1" fill="#f7f8ff" opacity="0.35"/><circle cx="718" cy="110" r="2" fill="#f7f8ff" opacity="0.5"/><circle cx="582" cy="117" r="1" fill="#f7f8ff" opacity="0.6499999999999999"/><circle cx="446" cy="124" r="2" fill="#f7f8ff" opacity="0.7999999999999999"/><circle cx="310" cy="131" r="1" fill="#f7f8ff" opacity="0.35"/><circle cx="174" cy="138" r="2" fill="#f7f8ff" opacity="0.5"/><circle cx="38" cy="145" r="1" fill="#f7f8ff" opacity="0.6499999999999999"/><circle cx="682" cy="152" r="2" fill="#f7f8ff" opacity="0.7999999999999999"/><circle cx="546" cy="159" r="1" fill="#f7f8ff" opacity="0.35"/><circle cx="410" cy="166" r="2" fill="#f7f8ff" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#f7f8ff">
+      <ellipse cx="244" cy="95" rx="85" ry="16"/>
+      <ellipse cx="634" cy="128" rx="105" ry="18"/>
+      <ellipse cx="384" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="584" cy="141" r="96.6" fill="url(#sun-rann-of-kutch)"/>
+    <circle cx="584" cy="141" r="42" fill="#f7f8ff" opacity="0.94"/>
+    <path d="M399 80 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#232046" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M536 121 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#232046" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M673 70 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#232046" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M210 111 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#232046" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M347 152 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#232046" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 285 Q210 215 430 270 T800 245 L800 450 L0 450 Z" fill="#c86d58" opacity="0.84"/>
+        <path d="M0 335 Q280 268 540 330 T800 312 L800 450 L0 450 Z" fill="#232046" opacity="0.9"/>
+        <ellipse cx="400" cy="382" rx="360" ry="42" fill="#f7f8ff" opacity="0.52"/><path d="M60 365 L740 365" stroke="#f7f8ff" stroke-width="2" opacity="0.6"/>
+  </svg>

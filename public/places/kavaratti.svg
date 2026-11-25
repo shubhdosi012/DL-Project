@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-kavaratti" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#062c42"/>
+        <stop offset="55%" stop-color="#0284c7"/>
+        <stop offset="100%" stop-color="#5be3d4"/>
+      </linearGradient>
+      <radialGradient id="sun-kavaratti" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff4cc" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#5be3d4" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-kavaratti)"/>
+    <circle cx="478" cy="37" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="114" cy="135" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="530" cy="78" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="166" cy="21" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="582" cy="119" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="218" cy="62" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="634" cy="160" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="270" cy="103" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="686" cy="46" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="322" cy="144" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="738" cy="87" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="374" cy="30" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="10" cy="128" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="426" cy="71" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="62" cy="14" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="478" cy="112" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="114" cy="55" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="530" cy="153" r="2" fill="#fff4cc" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#fff4cc">
+      <ellipse cx="276" cy="95" rx="85" ry="16"/>
+      <ellipse cx="546" cy="128" rx="105" ry="18"/>
+      <ellipse cx="336" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="296" cy="118" r="110.39999999999999" fill="url(#sun-kavaratti)"/>
+    <circle cx="296" cy="118" r="48" fill="#fff4cc" opacity="0.94"/>
+    <path d="M351 108 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M488 149 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M625 98 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M162 139 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M299 88 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 245 L170 215 L330 240 L520 210 L690 238 L800 220 L800 285 L0 285 Z" fill="#0284c7" opacity="0.45"/>
+        <path d="M0 278 Q220 262 440 278 T800 272 L800 450 L0 450 Z" fill="#0284c7" opacity="0.9"/>
+        <path d="M0 326 Q260 308 530 335 T800 322 L800 450 L0 450 Z" fill="#fff4cc" opacity="0.78"/>
+        <path d="M90 400 Q125 275 158 190" stroke="#062c42" stroke-width="11" fill="none" stroke-linecap="round"/>
+        <path d="M158 190 Q108 175 80 205 M158 190 Q145 140 182 152 M158 190 Q200 162 222 195 M158 190 Q174 218 202 235" stroke="#062c42" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+        <path d="M685 410 Q665 305 645 230" stroke="#062c42" stroke-width="9" fill="none" stroke-linecap="round"/>
+        <path d="M645 230 Q600 215 585 240 M645 230 Q640 185 670 198 M645 230 Q685 208 705 232" stroke="#062c42" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+        <path d="M415 304 Q455 314 495 304 L484 314 L426 314 Z" fill="#062c42" opacity="0.9"/>
+        <polygon points="455,304 455,268 480,292" fill="#fff4cc" opacity="0.95"/>
+        <ellipse cx="296" cy="306" rx="95" ry="10" fill="#fff4cc" opacity="0.35"/>
+  </svg>

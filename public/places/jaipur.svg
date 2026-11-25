@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-jaipur" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#261b38"/>
+        <stop offset="55%" stop-color="#c85038"/>
+        <stop offset="100%" stop-color="#ffb480"/>
+      </linearGradient>
+      <radialGradient id="sun-jaipur" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#ffe9c9" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#ffb480" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-jaipur)"/>
+    <circle cx="724" cy="137" r="1" fill="#ffe9c9" opacity="0.35"/><circle cx="442" cy="131" r="2" fill="#ffe9c9" opacity="0.5"/><circle cx="160" cy="125" r="1" fill="#ffe9c9" opacity="0.6499999999999999"/><circle cx="658" cy="119" r="2" fill="#ffe9c9" opacity="0.7999999999999999"/><circle cx="376" cy="113" r="1" fill="#ffe9c9" opacity="0.35"/><circle cx="94" cy="107" r="2" fill="#ffe9c9" opacity="0.5"/><circle cx="592" cy="101" r="1" fill="#ffe9c9" opacity="0.6499999999999999"/><circle cx="310" cy="95" r="2" fill="#ffe9c9" opacity="0.7999999999999999"/><circle cx="28" cy="89" r="1" fill="#ffe9c9" opacity="0.35"/><circle cx="526" cy="83" r="2" fill="#ffe9c9" opacity="0.5"/><circle cx="244" cy="77" r="1" fill="#ffe9c9" opacity="0.6499999999999999"/><circle cx="742" cy="71" r="2" fill="#ffe9c9" opacity="0.7999999999999999"/><circle cx="460" cy="65" r="1" fill="#ffe9c9" opacity="0.35"/><circle cx="178" cy="59" r="2" fill="#ffe9c9" opacity="0.5"/><circle cx="676" cy="53" r="1" fill="#ffe9c9" opacity="0.6499999999999999"/><circle cx="394" cy="47" r="2" fill="#ffe9c9" opacity="0.7999999999999999"/><circle cx="112" cy="41" r="1" fill="#ffe9c9" opacity="0.35"/><circle cx="610" cy="35" r="2" fill="#ffe9c9" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#ffe9c9">
+      <ellipse cx="258" cy="95" rx="85" ry="16"/>
+      <ellipse cx="548" cy="128" rx="105" ry="18"/>
+      <ellipse cx="398" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="598" cy="120" r="73.6" fill="url(#sun-jaipur)"/>
+    <circle cx="598" cy="120" r="32" fill="#ffe9c9" opacity="0.94"/>
+    <path d="M533 90 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#261b38" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M670 131 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#261b38" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M207 80 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#261b38" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M344 121 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#261b38" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M481 70 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#261b38" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 265 Q210 215 420 260 T800 240 L800 450 L0 450 Z" fill="#c85038" opacity="0.75"/>
+        <rect x="245" y="242" width="310" height="108" rx="8" fill="#261b38" opacity="0.92"/>
+        <polygon points="340,242 400,145 460,242" fill="#261b38" opacity="0.96"/>
+        <path d="M396 145 L404 145 L400 122 Z" fill="#f59e0b"/>
+        <path d="M285 242 C285 202, 335 202, 335 242 Z" fill="#ffe9c9" opacity="0.78"/>
+        <path d="M465 242 C465 202, 515 202, 515 242 Z" fill="#ffe9c9" opacity="0.78"/>
+        <rect x="0" y="340" width="800" height="110" fill="#261b38" opacity="0.97"/>
+  </svg>

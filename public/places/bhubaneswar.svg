@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-bhubaneswar" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#24140e"/>
+        <stop offset="55%" stop-color="#874628"/>
+        <stop offset="100%" stop-color="#e0a775"/>
+      </linearGradient>
+      <radialGradient id="sun-bhubaneswar" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#ffd7a8" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#e0a775" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-bhubaneswar)"/>
+    <circle cx="481" cy="107" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="378" cy="33" r="2" fill="#ffd7a8" opacity="0.5"/><circle cx="275" cy="114" r="1" fill="#ffd7a8" opacity="0.6499999999999999"/><circle cx="172" cy="40" r="2" fill="#ffd7a8" opacity="0.7999999999999999"/><circle cx="69" cy="121" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="746" cy="47" r="2" fill="#ffd7a8" opacity="0.5"/><circle cx="643" cy="128" r="1" fill="#ffd7a8" opacity="0.6499999999999999"/><circle cx="540" cy="54" r="2" fill="#ffd7a8" opacity="0.7999999999999999"/><circle cx="437" cy="135" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="334" cy="61" r="2" fill="#ffd7a8" opacity="0.5"/><circle cx="231" cy="142" r="1" fill="#ffd7a8" opacity="0.6499999999999999"/><circle cx="128" cy="68" r="2" fill="#ffd7a8" opacity="0.7999999999999999"/><circle cx="25" cy="149" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="702" cy="75" r="2" fill="#ffd7a8" opacity="0.5"/><circle cx="599" cy="156" r="1" fill="#ffd7a8" opacity="0.6499999999999999"/><circle cx="496" cy="82" r="2" fill="#ffd7a8" opacity="0.7999999999999999"/><circle cx="393" cy="163" r="1" fill="#ffd7a8" opacity="0.35"/><circle cx="290" cy="89" r="2" fill="#ffd7a8" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#ffd7a8">
+      <ellipse cx="197" cy="95" rx="85" ry="16"/>
+      <ellipse cx="527" cy="128" rx="105" ry="18"/>
+      <ellipse cx="417" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="377" cy="99" r="103.49999999999999" fill="url(#sun-bhubaneswar)"/>
+    <circle cx="377" cy="99" r="45" fill="#ffd7a8" opacity="0.94"/>
+    <path d="M552 109 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M689 150 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M226 99 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M363 140 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M500 89 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#24140e" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 160 L150 120 L340 165 L520 115 L710 155 L800 130 L800 450 L0 450 Z" fill="#24140e" opacity="0.92"/>
+        <path d="M240 450 L240 275 Q400 175 560 275 L560 450 Z" fill="#874628" opacity="0.55"/>
+        <path d="M295 450 L295 305 Q400 235 505 305 L505 450 Z" fill="#ffd7a8" opacity="0.35"/>
+        <rect x="0" y="370" width="800" height="80" fill="#24140e" opacity="0.95"/>
+  </svg>

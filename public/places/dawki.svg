@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-dawki" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#092b24"/>
+        <stop offset="55%" stop-color="#15806d"/>
+        <stop offset="100%" stop-color="#7be0c3"/>
+      </linearGradient>
+      <radialGradient id="sun-dawki" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#e8fff7" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#7be0c3" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-dawki)"/>
+    <circle cx="511" cy="52" r="1" fill="#e8fff7" opacity="0.35"/><circle cx="418" cy="153" r="2" fill="#e8fff7" opacity="0.5"/><circle cx="325" cy="99" r="1" fill="#e8fff7" opacity="0.6499999999999999"/><circle cx="232" cy="45" r="2" fill="#e8fff7" opacity="0.7999999999999999"/><circle cx="139" cy="146" r="1" fill="#e8fff7" opacity="0.35"/><circle cx="46" cy="92" r="2" fill="#e8fff7" opacity="0.5"/><circle cx="733" cy="38" r="1" fill="#e8fff7" opacity="0.6499999999999999"/><circle cx="640" cy="139" r="2" fill="#e8fff7" opacity="0.7999999999999999"/><circle cx="547" cy="85" r="1" fill="#e8fff7" opacity="0.35"/><circle cx="454" cy="31" r="2" fill="#e8fff7" opacity="0.5"/><circle cx="361" cy="132" r="1" fill="#e8fff7" opacity="0.6499999999999999"/><circle cx="268" cy="78" r="2" fill="#e8fff7" opacity="0.7999999999999999"/><circle cx="175" cy="24" r="1" fill="#e8fff7" opacity="0.35"/><circle cx="82" cy="125" r="2" fill="#e8fff7" opacity="0.5"/><circle cx="769" cy="71" r="1" fill="#e8fff7" opacity="0.6499999999999999"/><circle cx="676" cy="17" r="2" fill="#e8fff7" opacity="0.7999999999999999"/><circle cx="583" cy="118" r="1" fill="#e8fff7" opacity="0.35"/><circle cx="490" cy="64" r="2" fill="#e8fff7" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#e8fff7">
+      <ellipse cx="287" cy="95" rx="85" ry="16"/>
+      <ellipse cx="597" cy="128" rx="105" ry="18"/>
+      <ellipse cx="347" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="307" cy="104" r="108.1" fill="url(#sun-dawki)"/>
+    <circle cx="307" cy="104" r="47" fill="#e8fff7" opacity="0.94"/>
+    <path d="M122 75 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#092b24" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M259 116 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#092b24" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M396 157 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#092b24" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M533 106 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#092b24" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M670 147 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#092b24" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 185 Q180 135 370 180 T800 160 L800 450 L0 450 Z" fill="#15806d" opacity="0.78"/>
+        <path d="M0 280 Q240 250 490 285 T800 270 L800 450 L0 450 Z" fill="#092b24" opacity="0.9"/>
+        <path d="M120 260 Q400 315 680 255" stroke="#34d399" stroke-width="10" fill="none" stroke-linecap="round"/>
+        <path d="M120 238 Q400 292 680 233" stroke="#e8fff7" stroke-width="4" fill="none" stroke-dasharray="10 8"/>
+        <ellipse cx="400" cy="365" rx="250" ry="28" fill="#34d399" opacity="0.3"/>
+  </svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-araku-valley" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#0d3023"/>
+        <stop offset="55%" stop-color="#237a4b"/>
+        <stop offset="100%" stop-color="#a7e0a8"/>
+      </linearGradient>
+      <radialGradient id="sun-araku-valley" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#e6ffea" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#a7e0a8" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-araku-valley)"/>
+    <circle cx="691" cy="82" r="1" fill="#e6ffea" opacity="0.35"/><circle cx="138" cy="158" r="2" fill="#e6ffea" opacity="0.5"/><circle cx="365" cy="79" r="1" fill="#e6ffea" opacity="0.6499999999999999"/><circle cx="592" cy="155" r="2" fill="#e6ffea" opacity="0.7999999999999999"/><circle cx="39" cy="76" r="1" fill="#e6ffea" opacity="0.35"/><circle cx="266" cy="152" r="2" fill="#e6ffea" opacity="0.5"/><circle cx="493" cy="73" r="1" fill="#e6ffea" opacity="0.6499999999999999"/><circle cx="720" cy="149" r="2" fill="#e6ffea" opacity="0.7999999999999999"/><circle cx="167" cy="70" r="1" fill="#e6ffea" opacity="0.35"/><circle cx="394" cy="146" r="2" fill="#e6ffea" opacity="0.5"/><circle cx="621" cy="67" r="1" fill="#e6ffea" opacity="0.6499999999999999"/><circle cx="68" cy="143" r="2" fill="#e6ffea" opacity="0.7999999999999999"/><circle cx="295" cy="64" r="1" fill="#e6ffea" opacity="0.35"/><circle cx="522" cy="140" r="2" fill="#e6ffea" opacity="0.5"/><circle cx="749" cy="61" r="1" fill="#e6ffea" opacity="0.6499999999999999"/><circle cx="196" cy="137" r="2" fill="#e6ffea" opacity="0.7999999999999999"/><circle cx="423" cy="58" r="1" fill="#e6ffea" opacity="0.35"/><circle cx="650" cy="134" r="2" fill="#e6ffea" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#e6ffea">
+      <ellipse cx="167" cy="95" rx="85" ry="16"/>
+      <ellipse cx="627" cy="128" rx="105" ry="18"/>
+      <ellipse cx="387" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="347" cy="134" r="89.69999999999999" fill="url(#sun-araku-valley)"/>
+    <circle cx="347" cy="134" r="39" fill="#e6ffea" opacity="0.94"/>
+    <path d="M642 83 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d3023" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M179 124 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d3023" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M316 73 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d3023" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M453 114 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d3023" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M590 155 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#0d3023" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 235 Q180 170 380 228 T800 210 L800 450 L0 450 Z" fill="#237a4b" opacity="0.72"/>
+        <path d="M0 285 Q240 225 500 288 T800 268 L800 450 L0 450 Z" fill="#0d3023" opacity="0.76"/>
+        <path d="M0 340 Q260 290 540 348 T800 332 L800 450 L0 450 Z" fill="#0d3023" opacity="0.96"/>
+        <path d="M40 315 Q240 268 460 320" stroke="#86efac" stroke-width="2.5" fill="none" opacity="0.45"/>
+        <path d="M90 360 Q320 315 620 365" stroke="#86efac" stroke-width="2.5" fill="none" opacity="0.45"/>
+        <path d="M160 400 Q410 355 720 405" stroke="#e6ffea" stroke-width="2" fill="none" opacity="0.35"/>
+  </svg>

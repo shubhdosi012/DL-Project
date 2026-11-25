@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-bandhavgarh" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#152b13"/>
+        <stop offset="55%" stop-color="#4b7528"/>
+        <stop offset="100%" stop-color="#d7e07e"/>
+      </linearGradient>
+      <radialGradient id="sun-bandhavgarh" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff2c2" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#d7e07e" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-bandhavgarh)"/>
+    <circle cx="343" cy="17" r="1" fill="#fff2c2" opacity="0.35"/><circle cx="714" cy="80" r="2" fill="#fff2c2" opacity="0.5"/><circle cx="305" cy="143" r="1" fill="#fff2c2" opacity="0.6499999999999999"/><circle cx="676" cy="51" r="2" fill="#fff2c2" opacity="0.7999999999999999"/><circle cx="267" cy="114" r="1" fill="#fff2c2" opacity="0.35"/><circle cx="638" cy="22" r="2" fill="#fff2c2" opacity="0.5"/><circle cx="229" cy="85" r="1" fill="#fff2c2" opacity="0.6499999999999999"/><circle cx="600" cy="148" r="2" fill="#fff2c2" opacity="0.7999999999999999"/><circle cx="191" cy="56" r="1" fill="#fff2c2" opacity="0.35"/><circle cx="562" cy="119" r="2" fill="#fff2c2" opacity="0.5"/><circle cx="153" cy="27" r="1" fill="#fff2c2" opacity="0.6499999999999999"/><circle cx="524" cy="90" r="2" fill="#fff2c2" opacity="0.7999999999999999"/><circle cx="115" cy="153" r="1" fill="#fff2c2" opacity="0.35"/><circle cx="486" cy="61" r="2" fill="#fff2c2" opacity="0.5"/><circle cx="77" cy="124" r="1" fill="#fff2c2" opacity="0.6499999999999999"/><circle cx="448" cy="32" r="2" fill="#fff2c2" opacity="0.7999999999999999"/><circle cx="39" cy="95" r="1" fill="#fff2c2" opacity="0.35"/><circle cx="410" cy="158" r="2" fill="#fff2c2" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#fff2c2">
+      <ellipse cx="211" cy="95" rx="85" ry="16"/>
+      <ellipse cx="621" cy="128" rx="105" ry="18"/>
+      <ellipse cx="351" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="551" cy="128" r="75.89999999999999" fill="url(#sun-bandhavgarh)"/>
+    <circle cx="551" cy="128" r="33" fill="#fff2c2" opacity="0.94"/>
+    <path d="M126 95 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#152b13" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M263 136 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#152b13" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M400 85 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#152b13" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M537 126 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#152b13" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M674 75 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#152b13" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 285 Q240 235 500 282 T800 262 L800 450 L0 450 Z" fill="#4b7528" opacity="0.8"/>
+        <path d="M0 345 Q280 315 560 345 T800 335 L800 450 L0 450 Z" fill="#152b13" opacity="0.96"/>
+        <circle cx="155" cy="242" r="46" fill="#152b13" opacity="0.86"/>
+        <rect x="148" y="262" width="14" height="85" fill="#152b13"/>
+        <circle cx="655" cy="250" r="40" fill="#152b13" opacity="0.86"/>
+        <rect x="650" y="270" width="12" height="80" fill="#152b13"/>
+        <ellipse cx="400" cy="342" rx="34" ry="16" fill="#152b13"/>
+        <circle cx="436" cy="334" r="11" fill="#152b13"/>
+        <rect x="376" y="346" width="8" height="22" fill="#152b13"/>
+        <rect x="412" y="346" width="8" height="22" fill="#152b13"/>
+  </svg>

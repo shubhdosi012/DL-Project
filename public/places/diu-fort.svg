@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+    <defs>
+      <linearGradient id="sky-diu-fort" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#062c42"/>
+        <stop offset="55%" stop-color="#0284c7"/>
+        <stop offset="100%" stop-color="#5be3d4"/>
+      </linearGradient>
+      <radialGradient id="sun-diu-fort" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff4cc" stop-opacity="0.96"/>
+        <stop offset="100%" stop-color="#5be3d4" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="800" height="450" fill="url(#sky-diu-fort)"/>
+    <circle cx="349" cy="27" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="722" cy="61" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="315" cy="95" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="688" cy="129" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="281" cy="163" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="654" cy="42" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="247" cy="76" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="620" cy="110" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="213" cy="144" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="586" cy="23" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="179" cy="57" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="552" cy="91" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="145" cy="125" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="518" cy="159" r="2" fill="#fff4cc" opacity="0.5"/><circle cx="111" cy="38" r="1" fill="#fff4cc" opacity="0.6499999999999999"/><circle cx="484" cy="72" r="2" fill="#fff4cc" opacity="0.7999999999999999"/><circle cx="77" cy="106" r="1" fill="#fff4cc" opacity="0.35"/><circle cx="450" cy="140" r="2" fill="#fff4cc" opacity="0.5"/>
+    
+    <g opacity="0.22" fill="#fff4cc">
+      <ellipse cx="233" cy="95" rx="85" ry="16"/>
+      <ellipse cx="583" cy="128" rx="105" ry="18"/>
+      <ellipse cx="373" cy="65" rx="64" ry="12"/>
+    </g>
+    <circle cx="573" cy="155" r="98.89999999999999" fill="url(#sun-diu-fort)"/>
+    <circle cx="573" cy="155" r="43" fill="#fff4cc" opacity="0.94"/>
+    <path d="M268 85 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M405 126 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M542 75 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M679 116 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/><path d="M216 157 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#062c42" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+    
+        <path d="M0 245 L170 215 L330 240 L520 210 L690 238 L800 220 L800 285 L0 285 Z" fill="#0284c7" opacity="0.45"/>
+        <path d="M0 278 Q220 262 440 278 T800 272 L800 450 L0 450 Z" fill="#0284c7" opacity="0.9"/>
+        <path d="M0 326 Q260 308 530 335 T800 322 L800 450 L0 450 Z" fill="#fff4cc" opacity="0.78"/>
+        <path d="M90 400 Q125 275 158 190" stroke="#062c42" stroke-width="11" fill="none" stroke-linecap="round"/>
+        <path d="M158 190 Q108 175 80 205 M158 190 Q145 140 182 152 M158 190 Q200 162 222 195 M158 190 Q174 218 202 235" stroke="#062c42" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+        <path d="M685 410 Q665 305 645 230" stroke="#062c42" stroke-width="9" fill="none" stroke-linecap="round"/>
+        <path d="M645 230 Q600 215 585 240 M645 230 Q640 185 670 198 M645 230 Q685 208 705 232" stroke="#062c42" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+        <path d="M415 304 Q455 314 495 304 L484 314 L426 314 Z" fill="#062c42" opacity="0.9"/>
+        <polygon points="455,304 455,268 480,292" fill="#fff4cc" opacity="0.95"/>
+        <ellipse cx="573" cy="306" rx="95" ry="10" fill="#fff4cc" opacity="0.35"/>
+  </svg>
